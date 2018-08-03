@@ -10,6 +10,7 @@ author:
 # Build settings
 baseurl: '/engrazr.github.io/' # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
+theme: minima
 source: .
 destination: ./_site
 permalink: /:title
